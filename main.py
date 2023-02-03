@@ -1,6 +1,6 @@
 print("hellooo")
 print("is modifying")
-print("helooo again")
+print("hello again")
 print("k xa hau sathi???/")
 
 def func():
